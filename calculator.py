@@ -13,7 +13,8 @@ def divide(x, y):
     else:
         return "Erro: Divisão por zero não é permitida"
 
-
+def power(x, y):
+    return x ** y
     
 while True:
     print("Selecione a operação:")
