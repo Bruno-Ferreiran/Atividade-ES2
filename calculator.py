@@ -1,3 +1,8 @@
+def add(x, y):
+    return x + y
+
+
+    
 while True:
     print("Selecione a operação:")
     print("1.Adicionar")
@@ -27,3 +32,5 @@ while True:
         print(num1, "^", num2, "=", power(num1, num2))
     else:
         print("Entrada inválida")
+
+        
